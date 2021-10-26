@@ -1,0 +1,17 @@
+html {
+	background: #404550;
+}
+
+body {
+	font: 100% Arial, Helvetica, sans-serif;
+	line-height: 1.5;
+	position: relative;
+	background: #fff;
+	color: rgb(76, 67, 65);
+	font-weight:normal;
+	font-style:normal;
+
+    width: 1280px;
+	margin: 20 auto;
+    padding: 20px;
+}
